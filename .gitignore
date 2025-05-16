@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / pickled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+.installed.cfg
+*.egg-info/
+MANIFEST
+
+# Installer logs
+*.install.log
+install.log
+
+# VCS backups
+.git/
+.svn/
+.hg/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV
+env.bak/
+venv.bak/
+
+# Pyenv
+.python-version
+
+# Jupyter Notebook related files
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# OS or Editor specific files (add more as needed)
+.DS_Store
+Thumbs.db
+
+# Data files (if you don't want to track large datasets)
+data/raw/*
+data/processed/*
+*.csv
+*.json
+*.sqlite
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+*.lock
+
+# Specific to your project (add as needed)
+# my_secret_config.yaml
